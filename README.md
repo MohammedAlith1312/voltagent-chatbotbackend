@@ -1,12 +1,5 @@
-<div align="center">
-  <h1>⚡ sample-app</h1>
-  <p>AI Agent powered by <a href="https://voltagent.dev">VoltAgent</a></p>
-  
-  <p>
-    <a href="https://github.com/voltagent/voltagent"><img src="https://img.shields.io/badge/built%20with-VoltAgent-blue" alt="Built with VoltAgent" /></a>
-    <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node-%3E%3D22-brightgreen" alt="Node Version" /></a>
-  </p>
-</div>
+
+
 
 ## 🚀 Quick Start
 
