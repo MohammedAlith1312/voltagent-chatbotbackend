@@ -24,7 +24,7 @@ import { initDocumentVectorTable } from "./db-init";
 const openrouter = createOpenRouter({
   apiKey: process.env.OPENROUTER_API_KEY || "",
   headers: {
-    "HTTP-Referer": "http://localhost:3141",
+    "HTTP-Referer": "https://voltagent-chatbotbackend.onrender.com",
     "X-Title": "voltagent-app",
   },
 });

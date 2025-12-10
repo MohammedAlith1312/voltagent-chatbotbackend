@@ -13,7 +13,7 @@ const openai = new OpenAI({
   apiKey: process.env.OPENROUTER_API_KEY!, // required
   baseURL: "https://openrouter.ai/api/v1",
   defaultHeaders: {
-    "HTTP-Referer": "http://localhost:3141", // or your backend URL
+    "HTTP-Referer": "https://voltagent-chatbotbackend.onrender.com", // or your backend URL
     "X-Title": "voltagent-app",
   },
 });
